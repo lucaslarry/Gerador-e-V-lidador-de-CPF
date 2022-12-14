@@ -11,7 +11,7 @@ Projeto Criado como desáfio do curso na Udemy "Curso de Python 3 do Básico Ao 
 Pré-requisitos: Python 3.9
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/lucaslarry/Gerador-e-Validador-de-CPF
 ```
 Depois é só rodar o arquivo main.py com:
 ```bash
