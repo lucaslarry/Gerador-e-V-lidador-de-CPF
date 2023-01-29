@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-O Válidador e Gerador de Cpf é um projeto na linguaguem python que utiliza o algoritmo de validação de cpf para além de retornar o resultado da validação também ser possivel gerar novos cpf com esse algoritmo. 
+O Válidador e Gerador de Cpf é um exercício na linguaguem python que utiliza o algoritmo de validação de cpf para além de retornar o resultado da validação também ser possivel gerar novos cpf com esse algoritmo. 
 
 Projeto Criado como desáfio do curso na Udemy "Curso de Python 3 do Básico Ao Avançado" do professor Luiz Otávio Miranda.
 
